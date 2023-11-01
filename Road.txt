@@ -1,0 +1,28 @@
+####### **** POSSIBLE PATH TOWARD ROME **** ######
+#_From_N1_to_N2
+#_WEIGHT_1:_Time_Needed_To_Reach_Next_Node_(60= one_hour,10=ten_min).
+#_WEIGHT_2: Cost_Associated
+#
+#_DATA at 13/01:
+###################
+# N1 N2 t(m) €
+  0  1  68   7
+  0  2  44   6
+  1  2   5   2
+  0  3  63  25
+  3  4  90  20
+  1  4  150  6
+  2  5  300 15
+  5  6  270  9
+  4  6  480 10
+####################
+#
+##_DESCRIPTION_OF_NODES:
+# Node_0:Home
+# Node_1:Torino_Stura
+# Node_2:Torino_Lingotto
+# Node_3:Asti
+# Node_4:Milano
+# Node_5:Firenze
+# Node_6:Roma
+
